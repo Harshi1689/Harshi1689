@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Harshith M 👋
 
-<!--
-**Harshi1689/Harshi1689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at BMS College of Engineering, Bengaluru.
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer interested in Java, Python, Full-Stack Development, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Languages:** Java, Python, JavaScript, SQL
+- **Web:** HTML, CSS, Node.js, Express.js
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code
+
+### 🚀 Projects
+- **[GramaStay](https://github.com/Harshi1689)** — Full-stack web application using Node.js, Express.js, and MongoDB.
+- **AuraStream** — Emotion-based music recommendation using Python, OpenCV, and Machine Learning.
+- **Satellite Land Classification** — Satellite image classification using deep learning.
+- **PoleSense** — IoT-based power-line fault detection.
+
+### 🏆 Achievement
+- Runner-up, BMSCE Hackathon.
+
+### 📫 Contact
+- **Email:** harshith.m1689@gmail.com
+- **LinkedIn:** Add your LinkedIn profile URL.
+- **GitHub:** [Harshi1689](https://github.com/Harshi1689)
